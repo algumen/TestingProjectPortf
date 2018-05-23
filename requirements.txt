@@ -1,0 +1,9 @@
+allure-pytest>=2.3.2b1
+allure-python-commons>=2.3.2b1
+selenium>=3.11.0
+pytest>=3.5.0
+pytest-xdist>=1.22.2
+pytest-runner>=4.2
+flaky>=3.4.0
+opencv-python==3.3.0.9
+numpy>=1.14.3
